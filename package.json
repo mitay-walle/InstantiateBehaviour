@@ -1,0 +1,20 @@
+{
+  "name": "com.mitay-walle.instbehaviour",
+  "version": "1.0.1",
+  "displayName": "Instantiate Behaviour",
+  "description": "Позволяет спавнить все объекты в указанных папках или списке прямых ссылок, для удобства предпросмотра, тестирования",
+  "unity": "2018.4",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/mitay-walle/Transform_stuff#readme",
+  "licensesUrl": "https://github.com/mitay-walle/Transform_stuff/blob/master/LICENSE",
+  "dependencies": { },
+ "keywords": [
+    "UI",
+    "Animation"
+  ],
+  "author": {
+    "name": "mitay-walle",
+    "email": "mitay-walle@mail.ru",
+    "url": "https://github.com/mitay-walle"
+  }
+}
